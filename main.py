@@ -1,6 +1,1 @@
 print('Hello world!')
-print('Hello world!')
-print("111111111")
-print("111111111")
-print("111111111")
-print("111111111")
