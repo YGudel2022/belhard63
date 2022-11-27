@@ -1,5 +1,3 @@
 print('Hello world!')
 print('Hello world!')
-print('Hello phyton!')
-print('6459')
-print('new file')
+print("00000")
