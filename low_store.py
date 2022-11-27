@@ -1,4 +1,4 @@
 print('kk')
-print("jjjjjj")
+print("")
 print("piojojo")
 print("piojojo")
