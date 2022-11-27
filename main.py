@@ -1,5 +1,5 @@
 print('Hello world!')
 print('Hello world!')
 print('Hello phyton!')
-print('8768767668766687686')
+print('6')
 print('new file')
